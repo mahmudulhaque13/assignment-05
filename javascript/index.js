@@ -43,7 +43,7 @@ for (let callButton of callButtons) {
 
     historyItem.innerHTML = `
       <div
-               id="history-items" class="p-5 my-2 flex justify-between items-center shadow rounded-lg bg-[#FAFAFA]"
+               id="history-items" class="p-5 my-3 flex justify-between items-center shadow rounded-lg bg-[#FAFAFA]"
               >
                 <div>
                   <h2 class="font-semibold text-lg">${serviceName}</h2>
